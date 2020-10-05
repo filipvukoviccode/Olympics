@@ -1,0 +1,493 @@
+id,name,nationality,sex,dob,height,weight,sport,gold,silver,bronze
+382571888,Aaron Younger,AUS,male,9/25/91,1.93,100,aquatics,0,0,0
+259675127,Abdoulkarim Fawziya,CMR,female,03/01/1989,1.8,67,volleyball,0,0,0
+256805041,Adam Decker,HUN,male,2/29/84,2.03,115,aquatics,0,0,0
+46940649,Adas Juskevicius,LTU,male,01/03/1989,1.94,90,basketball,0,0,0
+993710181,Adenizia da Silva,BRA,female,12/18/86,1.87,65,volleyball,0,0,0
+787208883,Adrian Baches,BRA,male,04/07/1990,1.84,83,aquatics,0,0,0
+28097741,Agatha Bednarczuk,BRA,female,6/22/83,1.82,70,volleyball,0,1,0
+248085477,Aidan Roach,AUS,male,09/07/1990,1.87,88,aquatics,0,0,0
+356290857,Ailun Guo,CHN,male,11/14/93,1.92,85,basketball,0,0,0
+816408353,Akira Yanase,JPN,male,08/11/1988,1.91,95,aquatics,0,0,0
+249203070,Alade Aminu,NGR,male,9/14/87,2.1,102,basketball,0,0,0
+930879907,Albert Espanol Lifante,ESP,male,10/29/85,1.89,86,aquatics,0,0,0
+220269839,Alberto Munarriz Egana,ESP,male,5/19/94,1.98,105,aquatics,0,0,0
+299839075,Aleksandar IVOVIC,MNE,male,2/24/86,1.97,107,aquatics,0,0,0
+39610779,Aleksandar RADOVIC,MNE,male,2/24/87,1.91,98,aquatics,0,0,0
+213338722,Alessandro Nora,ITA,male,5/24/87,1.91,85,aquatics,0,0,1
+346410285,Alessandro Velotto,ITA,male,02/12/1995,1.86,85,aquatics,0,0,1
+5076328,Alessia Gennari,ITA,female,11/03/1991,1.84,68,volleyball,0,0,0
+488353513,Alessia Orro,ITA,female,7/18/98,1.8,74,volleyball,0,0,0
+178787882,Alex Abrines,ESP,male,08/01/1993,1.98,93,basketball,0,0,1
+334218519,Alex Bowen,USA,male,09/04/1993,1.96,102,aquatics,0,0,0
+566695148,Alex Garcia,BRA,male,03/04/1980,1.92,102,basketball,0,0,0
+531765497,Alex Obert,USA,male,12/18/91,1.96,105,aquatics,0,0,0
+240862321,Alex Roelse,USA,male,01/10/1995,2.04,115,aquatics,0,0,0
+599952871,Alexandra Oquendo,PUR,female,02/03/1984,1.89,75,volleyball,0,0,0
+538814395,Alexandre Camarasa,FRA,male,06/10/1987,1.93,100,aquatics,0,0,0
+350839117,Alexandres Gounas,GRE,male,10/03/1989,1.79,73,aquatics,0,0,0
+893065758,Alisha Glass,USA,female,04/05/1988,1.84,72,volleyball,0,0,1
+111502894,Ana Gallay,ARG,female,1/16/86,1.73,66,volleyball,0,0,0
+407491531,Anastasia Shlyakhovaya,RUS,female,10/05/1990,1.92,69,volleyball,0,0,0
+775627135,Andelo Setka,CRO,male,9/14/85,1.86,87,aquatics,0,1,0
+419373605,Andrea Fondelli,ITA,male,2/27/94,1.9,96,aquatics,0,0,1
+922616500,Andres Nocioni,ARG,male,11/30/79,2.01,102,basketball,0,0,0
+308408059,Andrew Bogut,AUS,male,11/28/84,2.07,122,basketball,0,0,0
+789218383,Andrija Prlainovic,SRB,male,4/28/87,1.87,93,aquatics,1,0,0
+277394115,Andro Buslje,CRO,male,01/04/1986,2,115,aquatics,0,1,0
+551671372,Andy Ogide,NGR,male,10/01/1987,2.04,107,basketball,0,0,0
+493430225,Angelos Vlachopoulos,GRE,male,9/28/91,1.79,75,aquatics,0,0,0
+921750536,Anna Danesi,ITA,female,4/20/96,1.95,75,volleyball,0,0,0
+818693717,Anna Malova,RUS,female,4/16/90,1.75,59,volleyball,0,0,0
+618276677,Anne Buijs,NED,female,12/02/1991,1.9,73,volleyball,0,0,0
+618542850,Anouk Verge-Depre,SUI,female,02/11/1992,1.85,70,volleyball,0,0,0
+576815287,Antanas Kavaliauskas,LTU,male,9/19/84,2.08,114,basketball,0,0,0
+63461595,Anthony Perez,VEN,male,9/29/93,2.05,93,basketball,0,0,0
+352830774,Antoine Diot,FRA,male,1/17/89,1.93,86,basketball,0,0,0
+96294708,Antonella del Core,ITA,female,11/05/1980,1.8,75,volleyball,0,0,0
+53317288,Antonio PETROVIC,MNE,male,9/24/82,1.93,98,aquatics,0,0,0
+151724741,Antonio Petkovic,CRO,male,01/11/1986,1.9,90,aquatics,0,1,0
+9514544,April Ross,USA,female,6/20/82,1.86,74,volleyball,0,0,1
+713644170,Arisa Sato,JPN,female,7/18/89,1.64,52,volleyball,0,0,0
+459345576,Aron Baynes,AUS,male,12/09/1986,2.07,115,basketball,0,0,0
+877684883,Atsushi Arai,JPN,male,02/03/1994,1.69,62,aquatics,0,0,0
+50738602,Atsuto Iida,JPN,male,12/24/93,1.81,82,aquatics,0,0,0
+731428841,Attila Decker,HUN,male,8/25/87,1.97,94,aquatics,0,0,0
+818866481,Augusto Lima,BRA,male,9/17/91,2.06,118,basketball,0,0,0
+189592697,Aurea Cruz,PUR,female,01/10/1982,1.8,63,volleyball,0,0,0
+302183046,Balasz Sziranyi Somogyi,ESP,male,01/10/1983,1.96,106,aquatics,0,0,0
+682683760,Balazs Erdelyi,HUN,male,2/16/90,1.96,94,aquatics,0,0,0
+958780251,Balazs Harai,HUN,male,04/05/1987,2.02,110,aquatics,0,0,0
+19020354,Barbara Seixas de Freitas,BRA,female,08/03/1987,1.77,66,volleyball,0,1,0
+610741199,Barbora Hermannova,CZE,female,11/07/1990,1.8,79,volleyball,0,0,0
+43362179,Ben Uzoh,NGR,male,3/18/88,1.91,92,basketball,0,0,0
+429748988,Benjamin Hallock,USA,male,11/22/97,1.99,108,aquatics,0,0,0
+351550766,Bernardo Oneto Gomes,BRA,male,11/12/1993,1.88,90,aquatics,0,0,0
+44038366,Bernardo Rocha,BRA,male,07/03/1989,1.81,95,aquatics,0,0,0
+390927427,Berthrade Simone Flore Bikatal,CMR,female,7/23/92,1.83,76,volleyball,0,0,0
+164136445,Bianka Busa,SRB,female,7/25/94,1.87,74,volleyball,0,1,0
+735422828,Blai Mallarach Guell,ESP,male,8/21/87,1.87,87,aquatics,0,0,0
+215144146,Bodo Essissima Madeleine Samantha,CMR,female,4/29/92,1.82,75,volleyball,0,0,0
+4071248,Bogdan Bogdanovic,SRB,male,8/18/92,1.97,99,basketball,0,1,0
+56310662,Bojan Bogdanovic,CRO,male,4/18/89,2,103,basketball,0,0,0
+189764365,Bojana Zivkovic,SRB,female,3/29/88,1.86,72,volleyball,0,1,0
+241752566,Boris Diaw,FRA,male,4/16/82,2.03,115,basketball,0,0,0
+349293339,Branislav Mitrovic,SRB,male,1/30/85,2.01,100,aquatics,1,0,0
+890726080,Brankica Mihajlovic,SRB,female,4/13/91,1.9,83,volleyball,0,1,0
+998710520,Bret Bonanni,USA,male,1/20/94,1.94,92,aquatics,0,0,0
+395081312,Britta Buthe,GER,female,5/25/88,1.86,78,volleyball,0,0,0
+476644551,Brock Motum,AUS,male,10/16/90,2.08,107,basketball,0,0,0
+586492695,Brooke Sweat,USA,female,3/27/86,1.73,69,volleyball,0,0,0
+379834078,Cameron Bairstow,AUS,male,12/07/1990,2.06,118,basketball,0,0,0
+714231073,Carli Lloyd,USA,female,08/06/1989,1.8,75,volleyball,0,0,1
+562138964,Carlos Delfino,ARG,male,8/29/82,2,95,basketball,0,0,0
+11238404,Carmelo Anthony,USA,male,5/29/84,2.03,109,basketball,1,0,0
+205420967,Celeste Plak,NED,female,10/26/95,1.9,90,volleyball,0,0,0
+278008849,Chamberlain Oguchi,NGR,male,4/28/86,1.98,90,basketball,0,0,0
+200603322,Changning Zhang,CHN,female,11/06/1995,1.93,79,volleyball,1,0,0
+262046958,Charles Kahudi,FRA,male,7/19/86,1.97,104,basketball,0,0,0
+572725066,Chris Goulding,AUS,male,10/24/88,1.92,93,basketball,0,0,0
+261434157,Christa Harmotto Dietzen,USA,female,10/12/1986,1.88,79,volleyball,0,0,1
+572557268,Christelle Tchoudjang Nana,CMR,female,07/07/1989,1.84,80,volleyball,0,0,0
+839986218,Christian Presciutti,ITA,male,11/27/82,1.84,87,aquatics,0,0,1
+971332873,Christodoulos Kolomvos,GRE,male,10/26/88,1.86,103,aquatics,0,0,0
+491621394,Christos Afroudakis,GRE,male,5/23/84,1.88,88,aquatics,0,0,0
+161104873,Clarisa Sagardia,ARG,female,6/29/89,1.74,67,volleyball,0,0,0
+650068927,Courtney Thompson,USA,female,11/04/1984,1.7,66,volleyball,0,0,1
+999131085,Cristiano Felicio,BRA,male,07/07/1992,2.08,125,basketball,0,0,0
+687865041,Cristina Chirichella,ITA,female,02/10/1994,1.95,73,volleyball,0,0,0
+975197213,Daly Santana,PUR,female,2/19/95,1.85,65,volleyball,0,0,0
+969246730,Damian Martin,AUS,male,09/05/1984,1.86,90,basketball,0,0,0
+486111896,Damir Buric,CRO,male,12/02/1980,2.05,115,aquatics,0,1,0
+686181990,Daniel Lopez Pinedo,ESP,male,7/16/80,1.9,88,aquatics,0,0,0
+797414950,Daniel Varga,HUN,male,9/25/83,2.01,96,aquatics,0,0,0
+699029368,Danielle Lins,BRA,female,01/05/1985,1.83,71,volleyball,0,0,0
+976263519,Daria Malygina,RUS,female,04/04/1994,2.02,82,volleyball,0,0,0
+408213856,Dario Saric,CRO,male,04/08/1994,2.07,110,basketball,0,0,0
+689516934,Darko Brguljan,MNE,male,11/05/1990,1.8,97,aquatics,0,0,0
+756775265,Darko Planinic,CRO,male,11/22/90,2.11,120,basketball,0,0,0
+83570795,David Andersen,AUS,male,6/23/80,2.1,102,basketball,0,0,0
+806548008,David Cubillan,VEN,male,7/27/87,1.83,79,basketball,0,0,0
+777458812,DeAndre Jordan,USA,male,7/21/88,2.11,120,basketball,1,0,0
+170161629,DeMarcus Cousins,USA,male,8/13/90,2.1,122,basketball,1,0,0
+119019224,Debby Stam-Pilon,NED,female,7/24/84,1.84,68,volleyball,0,0,0
+844929047,Debora Seilhamer,PUR,female,10/04/1985,1.66,61,volleyball,0,0,0
+174042478,Demar DeRozan,USA,male,08/07/1989,2.01,99,basketball,1,0,0
+493263577,Denes Varga,HUN,male,3/29/87,1.93,96,aquatics,0,0,0
+77686741,Diana Reyes,PUR,female,4/29/93,1.91,80,volleyball,0,0,0
+608020695,Doaa Elghobashy,EGY,female,11/08/1996,,,volleyball,0,0,0
+733397080,Domantas Sabonis,LTU,male,05/03/1996,2.08,109,basketball,0,0,0
+402567927,Drasko Brguljan,MNE,male,12/27/84,1.94,92,aquatics,0,0,0
+66675675,Draymond Green,USA,male,03/04/1990,2,104,basketball,1,0,0
+265536386,Dusan Mandic,SRB,male,6/16/94,2.02,105,aquatics,1,0,0
+386288896,Dusko Pijetlovic,SRB,male,4/25/85,1.97,97,aquatics,1,0,0
+578322269,Dwight Lewis,VEN,male,10/07/1987,1.98,,basketball,0,0,0
+340813269,Ebi Ere,NGR,male,08/03/1981,1.96,97,basketball,0,0,0
+786450061,Ekaterina Birlova,RUS,female,08/11/1987,1.8,62,volleyball,0,0,0
+335759270,Ekaterina Kosianenko,RUS,female,02/02/1990,1.78,64,volleyball,0,0,0
+359490730,Ekenechukwu Ibekwe,NGR,male,7/19/85,2.1,100,basketball,0,0,0
+13567083,Elena Ezhova,RUS,female,8/14/77,1.78,69,volleyball,0,0,0
+541439110,Eleonora Lo Bianco,ITA,female,12/22/79,1.71,67,volleyball,0,0,0
+584020714,Elsa Baquerizo McMillan,ESP,female,6/25/87,1.81,68,volleyball,0,0,0
+987023518,Emelda Piata Zessi,CMR,female,04/08/1997,1.9,65,volleyball,0,0,0
+974556928,Emilce Sosa,ARG,female,09/11/1987,1.77,72,volleyball,0,0,0
+867271718,Emmanouil Mylonakis,GRE,male,04/09/1985,1.85,75,aquatics,0,0,0
+968294058,Enzo Khasz,FRA,male,8/13/93,2.03,105,aquatics,0,0,0
+938043431,Erika Araki,JPN,female,08/03/1984,1.86,78,volleyball,0,0,0
+135668596,Evangelos Ioannis Delakas,GRE,male,02/08/1985,1.89,90,aquatics,0,0,0
+447422012,Evgenia Ukolova,RUS,female,5/17/89,1.81,66,volleyball,0,0,0
+978433851,Fabiana Claudino,BRA,female,1/24/85,1.93,76,volleyball,0,0,0
+933200790,Facundo Campazzo,ARG,male,3/23/91,1.81,85,basketball,0,0,0
+80472413,Fan Wang,CHN,female,1/27/94,1.88,72,volleyball,0,0,0
+129560075,Fangxu Yang,CHN,female,10/06/1994,1.9,71,volleyball,1,0,0
+452820051,Felipe Perrone,BRA,male,2/27/86,1.83,95,aquatics,0,0,0
+420641230,Felipe Reyes,ESP,male,3/16/80,2.04,109,basketball,0,0,1
+581423407,Felipe da Costa E Silva,BRA,male,08/08/1984,1.96,103,aquatics,0,0,0
+281630482,Femke Stoltenborg,NED,female,7/30/91,1.89,82,volleyball,0,0,0
+999389505,Fernanda Rodrigues,BRA,female,05/10/1986,1.81,75,volleyball,0,0,0
+198261943,Filip Filipovic,SRB,male,05/01/1987,1.96,101,aquatics,1,0,0
+838040702,Filip KLIKOVAC,MNE,male,02/07/1989,1.9,118,aquatics,0,0,0
+296668459,Filip Kruslin,CRO,male,3/18/89,1.99,93,basketball,0,0,0
+724902915,Florencia Natasha Busquets Reyes,ARG,female,6/27/89,1.92,68,volleyball,0,0,0
+838021254,Florent Pietrus,FRA,male,1/19/81,2.01,103,basketball,0,0,0
+241899445,Foluke Akinradewo,USA,female,10/05/1987,1.91,79,volleyball,0,0,1
+564896831,Francesco di Fulvio,ITA,male,8/15/93,1.9,88,aquatics,0,0,1
+896116528,Francisco Fernandez Miranda,ESP,male,6/21/86,1.85,83,aquatics,0,0,0
+680668744,Gabor Kis,HUN,male,9/27/82,1.94,115,aquatics,0,0,0
+630061946,Gabriel Deck,ARG,male,02/08/1995,1.97,107,basketball,0,0,0
+297118288,Gabriela Braga Guimaraes,BRA,female,5/19/94,1.76,59,volleyball,0,0,0
+533972369,Gen Li,CHN,male,8/15/88,1.96,110,basketball,0,0,0
+529194033,George Ford,AUS,male,2/24/93,1.92,95,aquatics,0,0,0
+827810713,Georgina Klug,ARG,female,06/11/1984,1.72,64,volleyball,0,0,0
+87130611,Georgios Dervisis,GRE,male,10/30/94,1.95,92,aquatics,0,0,0
+996218071,Gergo Zalanki,HUN,male,2/26/95,1.92,85,aquatics,0,0,0
+599927900,Gojko Pijetlovic,SRB,male,08/07/1983,1.94,92,aquatics,1,0,0
+532947055,Gonzalo Echenique Saglietti,ESP,male,4/27/90,1.9,94,aquatics,0,0,0
+146969359,Gregory Echenique,VEN,male,11/23/90,2.06,137,basketball,0,0,0
+389701340,Gregory Vargas,VEN,male,2/18/86,1.82,90,basketball,0,0,0
+405955663,Guilherme Giovannoni,BRA,male,06/02/1980,2.04,100,basketball,0,0,0
+107880382,Guillermo Molina Rios,ESP,male,3/16/84,1.95,105,aquatics,0,0,0
+587811250,Gustavo Guimaraes,BRA,male,1/24/94,1.8,90,aquatics,0,0,0
+402157963,Hae Ran Kim,KOR,female,3/16/84,1.68,57,volleyball,0,0,0
+98629225,Harrison Barnes,USA,male,5/30/92,2.03,102,basketball,1,0,0
+588715133,Haruka Miyashita,JPN,female,09/01/1994,1.77,61,volleyball,0,0,0
+702338556,Haruyo Shimamura,JPN,female,03/04/1992,1.82,79,volleyball,0,0,0
+348445577,Heather Bansley,CAN,female,9/13/87,1.71,65,volleyball,0,0,0
+812515999,Heejin Kim,KOR,female,4/29/91,1.85,78,volleyball,0,0,0
+942170112,Heissler Guillent,VEN,male,12/17/86,1.83,79,basketball,0,0,0
+530692898,Henriette Nadege Koulla,CMR,female,9/14/92,1.69,67,volleyball,0,0,0
+288648218,Hye Seon Yeum,KOR,female,02/03/1991,1.76,65,volleyball,0,0,0
+242202885,Hyo Hee Lee,KOR,female,09/09/1980,1.73,57,volleyball,0,0,0
+294430163,Hyo Jin Yang,KOR,female,12/14/89,1.9,72,volleyball,0,0,0
+701378766,Igor Kovacevic,FRA,male,11/03/1988,1.9,85,aquatics,0,0,0
+552884668,Ike Diogu,NGR,male,09/11/1983,2.04,115,basketball,0,0,0
+142973725,Inaki Aguilar Vicente,ESP,male,09/09/1983,1.89,82,aquatics,0,0,0
+617416112,Ioannis Fountoulis,GRE,male,5/25/88,1.86,90,aquatics,0,0,0
+739855069,Irina Fetisova,RUS,female,09/07/1994,1.9,76,volleyball,0,0,0
+83837014,Irina Voronkova,RUS,female,10/20/95,1.9,84,volleyball,0,0,0
+101444757,Irina Zaryazhko,RUS,female,10/04/1991,1.96,78,volleyball,0,0,0
+978854513,Isabelle Forrer,SUI,female,3/28/82,1.78,67,volleyball,0,0,0
+469953081,Ivan Krapic,CRO,male,2/14/89,1.94,103,aquatics,0,1,0
+144103259,Ives Alonso,BRA,male,10/12/1980,1.91,102,aquatics,0,0,0
+609790430,Jaeyeong Lee,KOR,female,10/15/96,1.78,66,volleyball,0,0,0
+538679620,James Stanton-French,AUS,male,7/21/83,2,93,aquatics,0,0,0
+219901271,Jamie Broder,CAN,female,06/08/1985,1.72,64,volleyball,0,0,0
+900686372,Jantine van der Vlist,NED,female,10/30/85,1.82,74,volleyball,0,0,0
+802446612,Jaqueline Endres,BRA,female,12/31/83,1.86,71,volleyball,0,0,0
+649163218,Jarrod Gilchrist,AUS,male,6/13/90,1.89,90,aquatics,0,0,0
+340352113,Javier Garcia Gadea,CRO,male,01/05/1984,1.98,92,aquatics,0,1,0
+225359768,Jelena Nikolic,SRB,female,4/13/82,1.94,79,volleyball,0,1,0
+188621072,Jeongah Park,KOR,female,3/26/93,1.86,75,volleyball,0,0,0
+619652365,Jesse Smith,USA,male,4/27/83,1.94,105,aquatics,0,0,0
+735180620,Jianlian Yi,CHN,male,10/27/87,2.13,113,basketball,0,0,0
+113342748,Jie Youn Nam,KOR,female,5/25/83,1.71,63,volleyball,0,0,0
+980188208,Jimmy Butler,USA,male,9/14/89,2.01,99,basketball,1,0,0
+426963180,Jiwei Zhao,CHN,male,8/25/95,1.85,80,basketball,0,0,0
+827210210,Joana Heidrich,SUI,female,10/02/1991,1.9,72,volleyball,0,0,0
+874371123,Joe Ingles,AUS,male,10/02/1987,2.04,91,basketball,0,0,0
+21878416,Joe Kayes,AUS,male,01/03/1991,1.98,125,aquatics,0,0,0
+64143047,Joel Dennerley,AUS,male,6/25/87,1.95,91,aquatics,0,0,0
+666790332,Joel Swift,AUS,male,6/14/90,1.9,103,aquatics,0,0,0
+363167392,Joffrey Lauvergne,FRA,male,9/30/91,2.09,115,basketball,0,0,0
+112263685,John Cotterill,AUS,male,10/27/87,1.93,88,aquatics,0,0,0
+912933755,John Cox,VEN,male,07/06/1981,1.96,95,basketball,0,0,0
+914738719,John Mann,USA,male,6/27/85,1.99,113,aquatics,0,0,0
+640178074,Jonas Crivella,BRA,male,4/30/88,1.81,82,aquatics,0,0,0
+510673064,Jonas Maciulis,LTU,male,02/10/1985,1.98,103,basketball,0,0,0
+510906933,Jonas Valanciunas,LTU,male,05/06/1992,2.11,120,basketball,0,0,0
+778006833,Jonathan Moriame,FRA,male,6/19/84,2.03,100,aquatics,0,0,0
+277046821,Jordan Larson-Burbach,USA,female,10/16/86,1.88,75,volleyball,0,0,1
+165713774,Jose Manuel Calderon,ESP,male,9/28/81,1.91,90,basketball,0,0,1
+178619727,Jose Vargas,VEN,male,1/23/82,1.96,109,basketball,0,0,0
+351583225,Josefa Fabiola Almeida De Sousa Alves,BRA,female,02/03/1983,1.84,70,volleyball,0,0,0
+184806323,Josefina Fernandez,ARG,female,8/17/91,1.75,72,volleyball,0,0,0
+208075373,Josh Akognon,NGR,male,02/10/1986,1.89,83,basketball,0,0,0
+299902345,Joshua Samuels,USA,male,07/08/1991,1.94,95,aquatics,0,0,0
+751292408,Josip Pavic,CRO,male,1/15/82,1.95,90,aquatics,0,1,0
+981156093,Josip Vrlic,BRA,male,4/25/86,1.96,120,aquatics,0,0,0
+441296734,Jovana Brakocevic,SRB,female,03/05/1988,1.96,82,volleyball,0,1,0
+383964072,Jovana Stevanovic,SRB,female,6/30/92,1.92,72,volleyball,0,1,0
+394965054,Juan-Carlos Navarro,ESP,male,6/13/80,1.93,82,basketball,0,0,1
+704786896,Juciely Cristina Barreto,BRA,female,12/18/80,1.83,72,volleyball,0,0,0
+979044606,Judith Pietersen,NED,female,07/03/1989,1.87,73,volleyball,0,0,0
+149975684,Julieta Constanza Lazcano,ARG,female,6/25/89,1.9,74,volleyball,0,0,0
+772973384,Kanami Tashiro,JPN,female,3/25/91,1.73,66,volleyball,0,0,0
+137070973,Karen Cope Charles,CRC,female,11/06/1985,1.73,59,volleyball,0,0,0
+326279643,Karina Ocasio,PUR,female,08/01/1985,1.92,76,volleyball,0,0,0
+541116732,Karla Borger,GER,female,11/22/88,1.79,66,volleyball,0,0,0
+406293602,Karsta Lowe,USA,female,02/02/1993,1.93,75,volleyball,0,0,1
+482962110,Katsuyuki Tanamura,JPN,male,08/03/1989,1.84,84,aquatics,0,0,0
+707077587,Kayla Banwarth,USA,female,1/21/89,1.78,75,volleyball,0,0,1
+53827184,Keigo Okawa,JPN,male,03/11/1990,1.83,96,aquatics,0,0,0
+142742348,Kelly Murphy,USA,female,10/20/89,1.88,79,volleyball,0,0,1
+132170004,Kelsey Robinson,USA,female,6/25/92,1.88,75,volleyball,0,0,1
+50571429,Kenya Yasuda,JPN,male,3/29/89,1.82,77,aquatics,0,0,0
+499209508,Kerri Walsh Jennings,USA,female,8/15/78,1.88,72,volleyball,0,0,1
+887138863,Kevin Durant,USA,male,9/29/88,2.05,104,basketball,1,0,0
+947055286,Kevin Lisch,AUS,male,5/16/86,1.88,89,basketball,0,0,0
+579217144,Kim Tillie,FRA,male,7/15/88,2.11,105,basketball,0,0,0
+649635243,Kimberly Hill,USA,female,11/30/89,1.93,72,volleyball,0,0,1
+688432611,Kinga Kolosinska,POL,female,06/02/1990,1.79,67,volleyball,0,0,0
+234124358,Kira Walkenhorst,GER,female,11/18/90,1.85,75,volleyball,1,0,0
+748463150,Klay Thompson,USA,male,02/08/1990,2,97,basketball,1,0,0
+337056974,Koji Takei,JPN,male,7/30/90,1.76,78,aquatics,0,0,0
+532161398,Konstantinos Flegkas,GRE,male,7/17/88,1.92,88,aquatics,0,0,0
+808549144,Konstantinos Genidounias,GRE,male,05/03/1993,1.83,87,aquatics,0,0,0
+578912084,Konstantinos Mourikis,GRE,male,07/11/1988,1.97,109,aquatics,0,0,0
+791359360,Kotoki Zayasu,JPN,female,01/11/1990,1.59,57,volleyball,0,0,0
+992483692,Kristina Valjas,CAN,female,06/02/1987,1.88,68,volleyball,0,0,0
+11420262,Krisztian Manhercz,HUN,male,02/06/1997,1.91,91,aquatics,0,0,0
+267615621,Krunoslav Simon,CRO,male,6/24/85,1.97,100,basketball,0,0,0
+57806527,Kyle Lowry,USA,male,3/25/86,1.83,93,basketball,1,0,0
+944821832,Kyriakos Pontikeas,GRE,male,05/09/1991,1.92,84,aquatics,0,0,0
+212656744,Kyrie Irving,USA,male,3/23/92,1.9,87,basketball,1,0,0
+1610593,Laetitia Crescence Moma Bassoko,CMR,female,10/09/1993,1.84,80,volleyball,0,0,0
+564844336,Larissa Franca Maestrini,BRA,female,4/14/82,1.74,70,volleyball,0,0,0
+456601968,Laura Dijkema,NED,female,2/18/90,1.84,70,volleyball,0,0,0
+996823500,Laura Giombini,ITA,female,01/04/1989,1.83,,volleyball,0,0,0
+363628190,Laura Ludwig,GER,female,1/13/86,1.81,70,volleyball,1,0,0
+933903933,Lauren Fendrick,USA,female,3/20/82,1.88,75,volleyball,0,0,0
+925700994,Leandro Barbosa,BRA,male,11/28/82,1.94,97,basketball,0,0,0
+988926338,Leia da Silva Nicolosi,BRA,female,03/01/1985,1.69,58,volleyball,0,0,0
+483445056,Leo Mainoldi,ARG,male,03/04/1985,2.04,106,basketball,0,0,0
+792302802,Leticia Boscacci,ARG,female,11/08/1985,1.86,70,volleyball,0,0,0
+157385962,Li Lin,CHN,female,07/05/1992,1.71,70,volleyball,1,0,0
+832461074,Liliana Fernandez Steiner,ESP,female,01/04/1987,1.78,75,volleyball,0,0,0
+399910648,Lonneke Sloetjes,NED,female,11/15/90,1.92,77,volleyball,0,0,0
+544547565,Louise Bawden,AUS,female,08/07/1981,1.83,72,volleyball,0,0,0
+554715039,Luca Cupido,USA,male,11/09/1995,1.88,95,aquatics,0,0,0
+668932185,Lucia Fresco,ARG,female,5/14/91,1.95,92,volleyball,0,0,0
+772996626,Luis Scola,ARG,male,4/30/80,2.04,108,basketball,0,0,0
+623136878,Luka Babic,CRO,male,9/29/91,2.02,94,basketball,0,0,0
+366132937,Luka Bukic,CRO,male,4/30/94,1.95,90,aquatics,0,1,0
+504359994,Luka Loncar,CRO,male,6/26/87,1.95,106,aquatics,0,1,0
+146583581,Lynda Morales,PUR,female,5/20/88,1.88,74,volleyball,0,0,0
+72981815,Madelein Meppelink,NED,female,11/29/89,1.83,75,volleyball,0,0,0
+197311311,Mai Yamaguchi,JPN,female,07/03/1983,1.76,62,volleyball,0,0,0
+959018491,Maja Ognjenovic,SRB,female,08/06/1984,1.83,67,volleyball,0,1,0
+690679655,Mantas Kalnietis,LTU,male,09/06/1986,1.94,90,basketball,0,0,0
+949112523,Manu Ginobili,ARG,male,7/28/77,1.98,91,basketball,0,0,0
+201149666,Marc Minguell Alferez,ESP,male,1/14/85,1.85,94,aquatics,0,0,0
+180431479,Marc Roca Barcelo,ESP,male,1/21/88,1.88,92,aquatics,0,0,0
+474468976,Marcelinho Huertas,BRA,male,5/25/83,1.91,90,basketball,0,0,0
+473758676,Marco del Lungo,ITA,male,03/01/1990,1.9,97,aquatics,0,0,1
+995047482,Marcos Delia,ARG,male,04/08/1992,2.09,105,basketball,0,0,0
+799844777,Marcus Vinicius Marquinhos,BRA,male,5/31/84,2.07,104,basketball,0,0,0
+188511447,Maret Balkestein-Grothues,NED,female,9/16/88,1.8,68,volleyball,0,0,0
+414150168,Mariafe Artacho del Solar,AUS,female,10/24/93,1.74,70,volleyball,0,0,0
+224028378,Mario Hezonja,CRO,male,2/25/95,2.03,100,basketball,0,0,0
+585219962,Marius Grigonis,LTU,male,4/26/94,1.98,92,basketball,0,0,0
+461844557,Marketa Slukova,CZE,female,6/28/88,1.8,68,volleyball,0,0,0
+670673572,Marko Arapovic,CRO,male,7/20/96,2.07,105,basketball,0,0,0
+442704681,Marko Bijac,CRO,male,01/12/1991,2.01,85,aquatics,0,1,0
+279090752,Marko Macan,CRO,male,4/26/93,1.96,109,aquatics,0,1,0
+638559155,Marko Simonovic,SRB,male,5/30/86,2.03,96,basketball,0,1,0
+488345537,Marleen van Iersel,NED,female,01/07/1988,1.78,68,volleyball,0,0,0
+461251275,Maro Jokovic,CRO,male,10/01/1987,2.03,95,aquatics,0,1,0
+91738730,Marta Menegatti,ITA,female,8/16/90,1.8,58,volleyball,0,0,0
+524633511,Martina Guiggi,ITA,female,05/01/1984,1.87,80,volleyball,0,0,0
+483109753,Marton Szivos,HUN,male,8/19/81,1.92,95,aquatics,0,0,0
+397414268,Marton Vamos,HUN,male,6/24/92,2.02,105,aquatics,0,0,0
+774702640,Mathieu Peisson,FRA,male,9/29/82,1.85,102,aquatics,0,0,0
+395178195,Matteo Aicardi,ITA,male,4/19/86,1.92,102,aquatics,0,0,1
+496386141,Matthew Dellavedova,AUS,male,09/08/1990,1.91,89,basketball,0,0,0
+299427906,McQuin Baron,USA,male,10/27/95,2.06,104,aquatics,0,0,0
+909022255,Mehdi Marzouki,FRA,male,5/26/87,1.92,101,aquatics,0,0,0
+571759273,Merrill Moses,USA,male,8/13/77,1.91,97,aquatics,0,0,0
+828603866,Michael Alexandre Bodegas,ITA,male,05/03/1987,1.92,102,aquatics,0,0,1
+253286352,Michael Gbinije,NGR,male,06/05/1992,2.01,90,basketball,0,0,0
+868365619,Michael Umeh,NGR,male,9/18/84,1.87,88,basketball,0,0,0
+831920477,Michal Izdinsky,FRA,male,7/23/92,1.78,75,aquatics,0,0,0
+814967349,Mickael Gelabale,FRA,male,5/22/83,2.01,90,basketball,0,0,0
+558930917,Miguel Marriaga,VEN,male,06/06/1984,2.06,118,basketball,0,0,0
+185068275,Miguel Ruiz,VEN,male,12/20/90,2.02,104,basketball,0,0,0
+588122554,Milan Aleksic,SRB,male,5/13/86,1.93,96,aquatics,1,0,0
+34031810,Milan Macvan,SRB,male,11/16/89,2.05,107,basketball,0,1,0
+627051763,Milena Rasic,SRB,female,10/25/90,1.91,72,volleyball,0,1,0
+543042822,Milos Cuk,SRB,male,12/21/90,1.91,91,aquatics,1,0,0
+824446870,Milos Scepanovic,MNE,male,10/09/1982,1.85,86,aquatics,0,0,0
+696058975,Milos Teodosic,SRB,male,3/19/87,1.95,90,basketball,0,1,0
+790457754,Mindaugas Kuzminskas,LTU,male,10/19/89,2.04,100,basketball,0,0,0
+232798946,Miro Bilan,CRO,male,7/21/89,2.13,121,basketball,0,0,0
+727165956,Miroslav Raduljica,SRB,male,01/05/1988,2.13,130,basketball,0,1,0
+858784147,Mitch Emery,AUS,male,9/27/90,1.85,89,aquatics,0,0,0
+211027286,Mitsuaki Shiga,JPN,male,9/16/91,1.77,75,aquatics,0,0,0
+478951301,Miyu Nagaoka,JPN,female,7/25/91,1.79,68,volleyball,0,0,0
+238146440,Mladan JANOVIC,MNE,male,06/11/1984,1.8,97,aquatics,0,0,0
+364893024,Monica de Gennaro,ITA,female,01/08/1987,1.74,67,volleyball,0,0,0
+560189163,Monika Brzostek,POL,female,7/28/89,1.73,62,volleyball,0,0,0
+522289399,Morena Martinez Franchi,ARG,female,2/19/93,1.64,62,volleyball,0,0,0
+824855418,Muhao Li,CHN,male,06/02/1992,2.18,115,basketball,0,0,0
+985606742,Myriam Fatime Sylla,ITA,female,01/08/1995,1.84,80,volleyball,0,0,0
+530677071,Myrthe Schoot,NED,female,8/29/88,1.83,70,volleyball,0,0,0
+36934955,Nada Meawad,EGY,female,04/12/1998,1.8,71,volleyball,0,0,0
+139491644,Nadia Centoni,ITA,female,6/19/81,1.82,63,volleyball,0,0,0
+774153676,Nadine Zumkehr,SUI,female,02/05/1985,1.72,65,volleyball,0,0,0
+641363235,Nando De Colo,FRA,male,6/23/87,1.96,90,basketball,0,0,0
+442261024,Natalia Alfaro,CRC,female,04/08/1987,1.65,62,volleyball,0,0,0
+121155817,Natalia Pereira,BRA,female,04/04/1989,1.84,76,volleyball,0,0,0
+681645907,Natalia Valentin,PUR,female,09/12/1989,1.7,61,volleyball,0,0,0
+184555664,Nataliya Goncharova,RUS,female,06/01/1989,1.94,75,volleyball,0,0,0
+618007323,Nemanja Nedovic,SRB,male,6/16/91,1.91,90,basketball,0,1,0
+188152707,Nene Hilario,BRA,male,9/13/82,2.11,113,basketball,0,0,0
+358214485,Nestor Colmenares,VEN,male,09/05/1987,2.03,110,basketball,0,0,0
+978016075,Ni Yan,CHN,female,03/02/1987,1.92,74,volleyball,1,0,0
+81940931,Niccolo' Gitto,ITA,male,10/12/1986,1.9,90,aquatics,0,0,1
+186990387,Nicholas Presciutti,ITA,male,12/14/93,1.89,93,aquatics,0,0,1
+860019279,Nicolas Batum,FRA,male,12/14/88,2.03,105,basketball,0,0,0
+388271463,Nicolas Brussino,ARG,male,03/02/1993,2,84,basketball,0,0,0
+164743566,Nicolas Laprovittola,ARG,male,1/31/90,1.93,88,basketball,0,0,0
+25839351,Nicole Laird,AUS,female,2/18/93,1.91,75,volleyball,0,0,0
+680564901,Nikola Jaksic,SRB,male,1/17/97,1.97,89,aquatics,1,0,0
+799131659,Nikola Jokic,SRB,male,2/19/95,2.09,115,basketball,0,1,0
+195768771,Nikola Kalinic,SRB,male,11/08/1991,2.02,102,basketball,0,1,0
+854142844,Nikola Mirotic,ESP,male,02/11/1991,2.08,100,basketball,0,0,1
+350577535,Norbert Hosnyanszky,HUN,male,03/04/1984,1.96,101,aquatics,0,0,0
+718571072,Norisbeth Agudo,VEN,female,5/22/92,1.63,55,volleyball,0,0,0
+137938891,Olaseni Lawal,NGR,male,10/08/1986,2.08,102,basketball,0,0,0
+48085407,Olaya Perez Pazo,VEN,female,06/07/1983,1.8,66,volleyball,0,0,0
+322724107,Paola Ogechi Egonu,ITA,female,12/18/98,1.9,70,volleyball,0,0,0
+463070123,Patricio Garino,ARG,male,5/17/93,1.96,96,basketball,0,0,0
+597321452,Patty Mills,AUS,male,08/11/1988,1.83,85,basketball,0,0,0
+899162102,Pau Gasol,ESP,male,07/06/1980,2.15,115,basketball,0,0,1
+209482391,Paul George,USA,male,05/02/1990,2.03,99,basketball,1,0,0
+92938402,Paula Yamila Nizetich,ARG,female,1/27/89,1.81,74,volleyball,0,0,0
+934414617,Paulius Jankunas,LTU,male,4/29/84,2.05,105,basketball,0,0,0
+538800855,Paulo Salemi,BRA,male,08/08/1993,1.91,94,aquatics,0,0,0
+431074718,Peng Zhou,CHN,male,10/11/1989,2.06,102,basketball,0,0,0
+336214928,Petar Tomasevic,FRA,male,01/02/1989,1.92,100,aquatics,0,0,0
+556354189,Pietro Figlioli,ITA,male,5/29/84,1.91,98,aquatics,0,0,1
+701283758,Predrag JOKIC,MNE,male,02/03/1983,1.88,102,aquatics,0,0,0
+321163659,Qi Zhou,CHN,male,1/16/96,2.17,95,basketball,0,0,0
+207837009,Qiuyue Wei,CHN,female,9/26/88,1.82,65,volleyball,1,0,0
+629107636,Quinta Steenbergen,NED,female,04/02/1985,1.89,75,volleyball,0,0,0
+667595731,Rachael Adams,USA,female,06/03/1990,1.88,81,volleyball,0,0,1
+558313217,Rafael Hettsheimeir,BRA,male,6/16/86,2.08,120,basketball,0,0,0
+125913109,Rafael Luz,BRA,male,02/11/1992,1.88,95,basketball,0,0,0
+711937461,Raissa Nasser,CMR,female,8/19/94,1.73,73,volleyball,0,0,0
+479803559,Ran Sui,CHN,male,6/25/92,1.93,96,basketball,0,0,0
+788112409,Raulzinho Neto,BRA,male,5/19/92,1.92,82,basketball,0,0,0
+776117067,Remi Garsau,FRA,male,7/19/84,1.9,82,aquatics,0,0,0
+746576007,Remi Saudadier,FRA,male,3/20/86,1.98,100,aquatics,0,0,0
+228952671,Renaldas Seibutis,LTU,male,7/23/85,1.96,83,basketball,0,0,0
+768753135,Rhys Howden,AUS,male,04/02/1987,1.89,84,aquatics,0,0,0
+238394812,Ricard Alarcon Tevar,ESP,male,8/18/91,1.88,110,aquatics,0,0,0
+8241548,Richie Campbell,AUS,male,9/18/87,1.93,99,aquatics,0,0,0
+184879090,Ricky Rubio,ESP,male,10/21/90,1.93,82,basketball,0,0,1
+954509397,Robertas Javtokas,LTU,male,3/20/80,2.1,117,basketball,0,0,0
+979738461,Roberto Acuna,ARG,male,9/14/90,2.08,109,basketball,0,0,0
+583096662,Robin de Kruijf,NED,female,05/05/1991,1.92,80,volleyball,0,0,0
+311874637,Roger Tahull Compte,ESP,male,05/11/1997,1.95,105,aquatics,0,0,0
+215465391,Rok Stipcevic,CRO,male,5/20/86,1.86,85,basketball,0,0,0
+883712398,Roko Ukic,CRO,male,12/05/1984,1.95,88,basketball,0,0,0
+600322031,Romain Blary,FRA,male,10/20/85,1.95,100,aquatics,0,0,0
+659959985,Ruda Franco,BRA,male,7/25/86,1.85,90,aquatics,0,0,0
+514482932,Rudy Fernandez,ESP,male,04/04/1985,1.96,84,basketball,0,0,1
+648750303,Rudy Gobert,FRA,male,6/26/92,2.15,113,basketball,0,0,0
+777015312,Ruoqi Hui,CHN,female,03/04/1991,1.92,78,volleyball,1,0,0
+205829488,Ryan Broekhoff,AUS,male,8/23/90,2.01,93,basketball,0,0,0
+140258499,Sandro Sukno,CRO,male,6/30/90,2,93,aquatics,0,1,0
+754215814,Saori Kimura,JPN,female,8/19/86,1.85,65,volleyball,0,0,0
+631663441,Saori Sakoda,JPN,female,12/18/87,1.75,63,volleyball,0,0,0
+809483271,Sarah Pavan,CAN,female,8/16/86,1.96,70,volleyball,0,0,0
+513283860,Sasa MISIC,MNE,male,3/27/87,1.98,109,aquatics,0,0,0
+227050501,Sava Randelovic,SRB,male,7/17/93,1.93,98,aquatics,1,0,0
+879945924,Seiya Adachi,JPN,male,6/24/95,1.72,67,aquatics,0,0,0
+24929950,Serena Ortolani,ITA,female,01/07/1987,1.87,63,volleyball,0,0,0
+157650129,Sergio Llull,ESP,male,11/15/87,1.9,91,basketball,0,0,1
+156131114,Sergio Rodriguez,ESP,male,06/12/1986,1.91,80,basketball,0,0,1
+170273489,Shara Venegas,PUR,female,9/18/92,1.73,68,volleyball,0,0,0
+994348153,Sheilla Castro de Paula Blassioli,BRA,female,07/01/1983,1.85,65,volleyball,0,0,0
+119951308,Shota Hazui,JPN,male,9/30/86,1.77,77,aquatics,0,0,0
+856209845,Silvija Popovic,SRB,female,3/15/86,1.78,65,volleyball,0,0,0
+682518926,Slobodan Nikic,SRB,male,1/25/83,1.97,106,aquatics,1,0,0
+466638845,Slobodan Soro,BRA,male,12/23/78,1.96,100,aquatics,0,0,0
+379316110,Sophie van Gestel,NED,female,6/29/91,1.78,69,volleyball,0,0,0
+670857265,Stan Okoye,NGR,male,04/10/1991,1.98,,basketball,0,0,0
+319413003,Stefan Bircevic,SRB,male,12/13/89,2.1,104,basketball,0,1,0
+971449557,Stefan Jovic,SRB,male,11/03/1990,1.96,94,basketball,0,1,0
+921350998,Stefan Markovic,SRB,male,4/25/88,1.99,96,basketball,0,1,0
+11369816,Stefan Mitrovic,SRB,male,3/29/88,1.95,91,aquatics,1,0,0
+782498343,Stefana Veljkovic,SRB,female,01/09/1990,1.9,76,volleyball,0,1,0
+965767592,Stefano Tempesti,ITA,male,06/09/1979,2.05,100,aquatics,0,0,1
+616655285,Stefanos Galanopoulos,GRE,male,2/22/93,1.97,89,aquatics,0,0,0
+799391274,Stephanie Enright,PUR,female,12/15/90,1.79,56,volleyball,0,0,0
+195104856,Stephanie Fotso Mogoung,CMR,female,9/25/87,1.84,78,volleyball,0,0,0
+571111419,Su Ji Kim,KOR,female,07/11/1987,1.87,68,volleyball,0,0,0
+74177936,Taliqua Clancy,AUS,female,6/25/92,1.84,68,volleyball,0,0,0
+302432944,Talita Rocha,BRA,female,8/29/82,1.81,64,volleyball,0,0,0
+410068536,Tanya Acosta,ARG,female,03/11/1991,1.82,70,volleyball,0,0,0
+326358515,Tatiana Kosheleva,RUS,female,12/23/88,1.91,67,volleyball,0,0,0
+737519683,Tatiana Soledad Rizzo,ARG,female,12/30/86,1.78,64,volleyball,0,0,0
+296920401,Thaisa Menezes,BRA,female,5/15/87,1.96,75,volleyball,0,0,0
+119367610,Theorine Christelle Aboa Mbeza,CMR,female,8/25/92,1.82,78,volleyball,0,0,0
+814590429,Thibaut Simon,FRA,male,12/18/83,1.92,98,aquatics,0,0,0
+360616415,Thomas Dunstan,USA,male,9/29/97,1.94,96,aquatics,0,0,0
+371431214,Thomas Heurtel,FRA,male,04/10/1989,1.88,83,basketball,0,0,0
+404485825,Tijana Boskovic,SRB,female,03/08/1997,1.93,82,volleyball,0,1,0
+28414240,Tijana Malesevic,SRB,female,3/18/91,1.85,78,volleyball,0,1,0
+738894846,Ting Zhu,CHN,female,11/29/94,1.95,78,volleyball,1,0,0
+725466241,Tomoyoshi Fukushima,JPN,male,06/03/1993,1.77,75,aquatics,0,0,0
+870620846,Tony Azevedo,USA,male,11/20/81,1.86,90,aquatics,0,0,0
+35377706,Tony Parker,FRA,male,5/17/82,1.86,80,basketball,0,0,0
+737278135,Tyler Martin,AUS,male,6/28/90,1.96,98,aquatics,0,0,0
+98938624,Ugo Crousillat,FRA,male,10/27/90,1.9,94,aquatics,0,0,0
+725017162,Uros CUCKOVIC,MNE,male,4/25/90,1.99,101,aquatics,0,0,0
+655768386,Vaidas Kariniauskas,LTU,male,11/16/93,1.97,,basketball,0,0,0
+833598839,Valentino Gallo,ITA,male,7/17/85,1.92,95,aquatics,0,0,1
+867313353,Vera Vetrova,RUS,female,8/21/86,1.8,73,volleyball,0,0,0
+690173780,Victoire Pauline L'or Ngon Ntame,CMR,female,12/31/85,1.77,79,volleyball,0,0,0
+753873468,Victor Claver,ESP,male,8/30/88,2.06,107,basketball,0,0,1
+494951044,Viktor Nagy,HUN,male,7/24/84,1.98,96,aquatics,0,0,0
+45735715,Vilmarie Mojica,PUR,female,8/13/85,1.8,63,volleyball,0,0,0
+253097119,Vinicius Antonelli,BRA,male,03/01/1990,1.83,82,aquatics,0,0,0
+411101006,Vitor Benite,BRA,male,2/20/90,1.9,88,basketball,0,0,0
+696988201,Vjekoslav Paskovic,MNE,male,3/23/85,1.8,86,aquatics,0,0,0
+54519941,Vladimir Stimac,SRB,male,8/25/87,2.11,112,basketball,0,1,0
+879180304,Willy Hernangomez,ESP,male,5/27/94,2.1,115,basketball,0,0,1
+2681418,Windi Graterol,VEN,male,09/10/1986,2.05,110,basketball,0,0,0
+933749251,Xia Ding,CHN,female,1/13/90,1.8,67,volleyball,1,0,0
+591962828,Xiangyu Gong,CHN,female,4/21/97,1.86,72,volleyball,1,0,0
+470006570,Xiaochuan Zhai,CHN,male,3/24/93,2.04,100,basketball,0,0,0
+620187619,Xiaotong Liu,CHN,female,2/16/90,1.88,70,volleyball,1,0,0
+429546103,Xinyue Yuan,CHN,female,12/21/96,2.01,78,volleyball,1,0,0
+539240729,Yael Castiglione,ARG,female,9/27/85,1.84,75,volleyball,0,0,0
+435033885,Yana Shcherban,RUS,female,09/06/1989,1.85,71,volleyball,0,0,0
+210648871,Yanyuhang Ding,CHN,male,8/20/93,2,91,basketball,0,0,0
+300599619,Yarimar Rosa,PUR,female,6/20/88,1.78,62,volleyball,0,0,0
+699050231,Yeon Koung Kim,KOR,female,2/26/88,1.92,73,volleyball,0,0,0
+336097063,Yolande Juliana Amana Guigolo,CMR,female,9/15/97,1.84,78,volleyball,0,0,0
+430969568,Yoo Na Bae,KOR,female,11/30/89,1.82,66,volleyball,0,0,0
+62442615,Youn Joo Hwang,KOR,female,8/13/86,1.77,63,volleyball,0,0,0
+960243282,Yuan Yue,CHN,female,7/23/87,1.82,72,volleyball,0,0,0
+27660873,Yuchen Zou,CHN,male,07/05/1996,2.03,107,basketball,0,0,0
+596523422,Yuki Ishii,JPN,female,05/08/1991,1.8,68,volleyball,0,0,0
+917190651,Yuki Kadono,JPN,male,9/14/90,1.77,72,aquatics,0,0,0
+787363560,Yunli Xu,CHN,female,08/02/1987,1.95,75,volleyball,1,0,0
+516134396,Yurie Nabeya,JPN,female,12/15/93,1.76,58,volleyball,0,0,0
+920794610,Yusuke Shimizu,JPN,male,09/07/1988,1.81,93,aquatics,0,0,0
+457461427,Yvon Belien,NED,female,12/28/93,1.88,74,volleyball,0,0,0
+988416903,Zdravko Radic,MNE,male,6/24/79,1.93,96,aquatics,0,0,0
+916408500,Zeljko Sakic,CRO,male,4/14/88,2.03,105,basketball,0,0,0
+167115740,Zhelin Wang,CHN,male,1/20/94,2.14,100,basketball,0,0,0
+593183472,Zivko Gocic,SRB,male,8/22/82,1.93,93,aquatics,1,0,0
